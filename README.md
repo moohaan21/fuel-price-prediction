@@ -1,6 +1,6 @@
 # Fuel Price Prediction - Admin & User Dashboard
 
-## Requirements
+## Requirements for 
 - PHP 8.0 or higher
 - MySQL (MariaDB)
 - XAMPP (recommended for local development)
