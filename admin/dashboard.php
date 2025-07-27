@@ -4,7 +4,7 @@ require_login();
 require_admin();
 include '../includes/db.php';
 
-// Get admin info
+// Get admin info rmation
 $admin_name = htmlspecialchars($_SESSION['username'] ?? 'Admin');
 
 // Get stats
