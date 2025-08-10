@@ -15,6 +15,7 @@ Place the project folder (e.g., `fuel price prediction`) inside your XAMPP `htdo
 C:/xampp/htdocs/fuel price prediction
 ```
 
+
 ### 2. Start XAMPP
 - Start **Apache** and **MySQL** from the XAMPP Control Panel.
 
