@@ -7,6 +7,7 @@
 - XAMPP (recommended for local development)
 - Composer (optional, if you want to manage PHP dependencies)
 
+
 ## Setup Instructions
 
 ### 1. Clone or Copy the Project
